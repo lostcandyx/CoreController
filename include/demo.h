@@ -16,3 +16,6 @@
 
 #include "quartic.h"
 #include "../Quartic/quartic.cpp"
+
+#include "File.h"
+#include "../src/File.cpp"
